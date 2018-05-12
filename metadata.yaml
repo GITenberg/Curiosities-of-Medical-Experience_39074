@@ -1,0 +1,52 @@
+_repo: Curiosities-of-Medical-Experience_39074
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39074-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Millingen, J. G. (John Gideon)
+    aliases:
+    - Millengen, J. G. (John Gideon)
+    - Millingen, John Gideon
+    - Millingen, J. G. V. (John Gideon V.)
+    - Millingen, J. V. (John V.)
+    birthdate: 1782
+    deathdate: 1862
+    gutenberg_agent_id: '39823'
+    url: http://www.gutenberg.org/2009/agents/39823
+description: ''
+gutenberg_issued: '2012-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39074'
+  lccn: '34037216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'R'
+- !lcsh 'Medicine'
+tableOfContents: Obesity -- Dwarfs -- Gigantic races -- Unlawful cures -- Voice and
+  speech -- Ecstatic exaltation -- Varieties of mankind -- On the inhumation of the
+  dead in cities -- Buried alive -- Spontaneous combustion -- Brassica eruca -- Cagliostro
+  -- Lunar influence on human life and diseases -- Spectacles -- Leeches -- Somnambulism
+  -- Medical powers of music -- The food of mankind -- Influence of imagination --
+  Ancient ideas of phrenology -- Perfumes -- Love philters and potions -- Ventriloquism
+  -- Chaucer's description of a physician -- Dæmonomania -- The plague -- Abstinence
+  -- Poison of the upas, or ipo -- Homophagous and polyphagous -- Causes of insanity
+  -- Leprosy -- The aspic -- Selden's comparison between a divine, a statesman, and
+  a physician -- The lettuce -- Medical fees -- Enthusiasm -- Medical effects of water
+  -- Proverbs and sayings regarding health and disease -- The night-mare -- Incubation
+  of diseases -- Quackery and charlatanism -- On the use of tea -- Mandragore -- Barber-surgeons,
+  and the progress of chirurgical art -- On dreams -- On flagellation -- On life and
+  the blood -- Of the homoeopathic doctrines -- Doctrine of signatures -- Coffee --
+  Aqua tophania -- Plica polonica & human hair -- Animal magnetism -- Poisonous fishes
+  -- Memory & the mental faculties -- Affections of the sight -- Hellebore -- Sympathies
+  and antipathies -- The Archeus of Van Helmont -- Monsters -- Longevity -- Cretinism
+  -- Temperaments -- Solar influence -- Sweating fever -- Smallpox -- Drunkenness
+  -- Decapitation -- Mummies -- Hydrophobia -- Rise and progress of medicine -- Medicine
+  of the Chinese -- Experiments on living animals.
+title: Curiosities of Medical Experience
+url: http://www.gutenberg.org/ebooks/39074
